@@ -1,0 +1,17 @@
+{
+  "upstream_release": "v7.29530.1",
+  "files": {
+    "upstream-db.raw.json": {
+      "url": "https://github.com/EhTagTranslation/Database/releases/download/v7.29530.1/db.raw.json",
+      "sha256": "af61d5fc34f8485ee77f96841ac4b0a12444880fb3f8accbbfa252b6b5c63dd4"
+    },
+    "upstream-LICENSE.md": {
+      "url": "https://raw.githubusercontent.com/EhTagTranslation/Database/v7.29530.1/LICENSE.md",
+      "sha256": "b6c4452f59b6c8d4bdae7011c6554c49d1aa2b22a340488edf32b8974c9b2b70"
+    },
+    "baseline.json": {
+      "url": "previous reviewed db.raw.json",
+      "sha256": "3cc62988c978adb602bb462675327044bf85552a387186ac2d805702c8060f75"
+    }
+  }
+}
